@@ -1,0 +1,21 @@
+Team SAIT
+CSE 403 Team Status Report, Week 2
+4/4/2018
+
+Progress we’ve made this week
+
+* We made a GitHub repo for our chosen project.
+* We made a Google Drive share for our reports.
+* We discussed some potential directions in which we can take our project. (We have the general 
+  idea established, but we need to form a more concrete goal. There is still a little ambiguity about 
+  how we will organize and test alternative implementations.)
+
+Goals for next week
+
+* We want to solidify the details about our tool’s proposed functionality (all responsible).
+* Once we have a good understanding of our tool’s proposed functionality, we want to create
+  a timeline of work to do to create it (all responsible).
+* We should do some research about Java testing to determine what resources are available 
+  to us as we set about creating our tool (all responsible).
+* Depending on how far we get, in the next week we may be able to split up the work and each 
+  start working on individual aspects of the code (all responsible).
