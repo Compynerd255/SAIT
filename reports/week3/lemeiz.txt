@@ -7,11 +7,12 @@ Goals from previous week:
 - N/A
 
 Progress from this week:
-- Helped finishing the project proposal
+- Helped finish writing the project proposal
 - Discussed with team members on the feedback we got for the project proposal, 
-  and solidified the details about our tool's proposed functionality
+  and refined our motivation for this project as well as solidified the details 
+  about our tool's proposed functionality based on the feedback
 
 Plans and goals for next week:
 - Start reading through JUnit's source code to familiarize myself with it
-- Discuss with team members about division of work and more on
-  implementation plans
+- Discuss with team members about division of work and to finalize our 
+  specifications and implementation plans
