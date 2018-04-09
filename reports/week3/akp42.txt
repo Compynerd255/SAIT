@@ -1,0 +1,20 @@
+Alia Paddock (akp42)
+CSE 403 Individual Status Report, Week 3
+4/9/18
+
+Progress I've made this week:
+
+This past week, I mainly focused on helping my teammates edit and refine our project proposal. While we have made 
+more progress regarding how we might best go about this, it seems our motivation still needs some work. We still 
+lack examples of concrete use case examples that demonstrate how SAIT would be helpful in the programming world.
+
+Plans and goals for this week:
+
+Seeing as there are some concerns from the staff about our approach, my main goal is to help my teammates address 
+those concerns and solidify the motivation behind what we are doing. I would like to explore alternatives to 
+incorporating our tool with JUnit, to see if any of them would be more compatible with our functionality. I would 
+also like to come up with some concrete use case examples for SAIT that clearly show the motivation behind it.
+
+Once we have addressed these concerns, my goal is to collaborate with my teammates to finalize the specifications
+of our design. If we make good progress on that this week, I may even be able to start writing some preliminary 
+tests for our code.
