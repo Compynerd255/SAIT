@@ -1,0 +1,17 @@
+Name: Lemei Zhang
+CSE netID: lemeiz
+CSE 403
+Week 3 individual report
+
+Goals from previous week:
+- N/A
+
+Progress from this week:
+- Helped finishing the project proposal
+- Discussed with team members on the feedback we got for the project proposal, 
+  and solidified the details about our tool's proposed functionality
+
+Plans and goals for next week:
+- Start reading through JUnit's source code to familiarize myself with it
+- Discuss with team members about division of work and more on
+  implementation plans
